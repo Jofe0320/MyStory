@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![ Alt text](Screen-Recording-2023-03-01-at-11.37.57-PM.gif) / ! [](Screen-Recording-2023-03-01-at-11.37.57-PM.gif)
+![](https://github.com/Jofe0320/MyStory/blob/main/Screen-Recording-2023-03-01-at-11.37.57-PM.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
