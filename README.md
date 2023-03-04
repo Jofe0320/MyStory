@@ -13,14 +13,14 @@ Time spent: 48 hours spent in total
 The following **required** functionality is completed:
 
 - [x] Users are able to see a customized app icon and launch screen
-- [HALF] Your app should work for any screen size and orientation using AutoLayout constraints
+- [x] Your app should work for any screen size and orientation using AutoLayout constraints
 - [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
 - [x] Users are able to see at least 3 context items
 - [x] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
  
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface through styling and coloring
+- [x] Improve and customize the user interface through styling and coloring
 - [ ] Allow users to scroll when context items are off-screen (table view implemention)
 
 The following **additional** features are implemented:
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://github.com/Jofe0320/MyStory/blob/main/Screen-Recording-2023-03-01-at-11.37.57-PM.gif)
+<img src="https://github.com/Jofe0320/MyStory/blob/main/Screen-Recording-2023-03-04-at-1.55.44-PM.gif" width=200>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
