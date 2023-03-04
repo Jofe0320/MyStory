@@ -30,9 +30,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 <img src="https://github.com/Jofe0320/MyStory/blob/main/Screen-Recording-2023-03-04-at-1.55.44-PM.gif" width=200>
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+
+
+GIF created with Mac Screen Recording Tool
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
